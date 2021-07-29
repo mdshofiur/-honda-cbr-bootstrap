@@ -6,6 +6,8 @@ body{
     padding: 0;
 }
 
+/* header sections */
+
 #header-section{
     background-color: #264653;
 }
@@ -17,12 +19,20 @@ body{
     border: 0;
 }
 
+/* feature section */
+
 .feature-images{
     filter:grayscale(1)
 }
+
+/* global color sections */
+
 .global-color{
     color:tomato;
 }
+
+/* clients Sections */
+
 i{
     color: tomato;
     padding: 3px;
